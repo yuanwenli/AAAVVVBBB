@@ -6,5 +6,8 @@
 ```bash
 $ npm install
 
-114
+$ npm start   
+$ yarn install
+$ yarn start    
+__# visit http://localhost:8000
 ```
